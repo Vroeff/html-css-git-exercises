@@ -3,12 +3,29 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+  color: white;
     -webkit-font-smoothing: antialiased;
 }
 
 
+.Learn{
+color:black;
+}
+
+.links{
+   color:black;
+     
+}
 
 
+.content{
+    background-image: url('../img/first-background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    
+}
 
 /**
  * Add your custom styles below
